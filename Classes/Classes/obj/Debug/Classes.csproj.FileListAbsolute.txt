@@ -1,0 +1,7 @@
+c:\users\chris\source\repos\IntroC#\Classes\Classes\bin\Debug\Classes.exe.config
+c:\users\chris\source\repos\IntroC#\Classes\Classes\bin\Debug\Classes.exe
+c:\users\chris\source\repos\IntroC#\Classes\Classes\bin\Debug\Classes.pdb
+c:\users\chris\source\repos\IntroC#\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+c:\users\chris\source\repos\IntroC#\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\Classes\Classes\obj\Debug\Classes.exe
+c:\users\chris\source\repos\IntroC#\Classes\Classes\obj\Debug\Classes.pdb

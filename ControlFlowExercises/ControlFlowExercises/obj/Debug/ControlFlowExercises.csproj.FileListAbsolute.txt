@@ -1,0 +1,7 @@
+c:\users\chris\source\repos\IntroC#\ControlFlowExercises\ControlFlowExercises\bin\Debug\ControlFlowExercises.exe.config
+c:\users\chris\source\repos\IntroC#\ControlFlowExercises\ControlFlowExercises\bin\Debug\ControlFlowExercises.exe
+c:\users\chris\source\repos\IntroC#\ControlFlowExercises\ControlFlowExercises\bin\Debug\ControlFlowExercises.pdb
+c:\users\chris\source\repos\IntroC#\ControlFlowExercises\ControlFlowExercises\obj\Debug\ControlFlowExercises.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\ControlFlowExercises\ControlFlowExercises\obj\Debug\ControlFlowExercises.exe
+c:\users\chris\source\repos\IntroC#\ControlFlowExercises\ControlFlowExercises\obj\Debug\ControlFlowExercises.pdb
+c:\users\chris\source\repos\IntroC#\ControlFlowExercises\ControlFlowExercises\obj\Debug\ControlFlowExercises.csprojAssemblyReference.cache

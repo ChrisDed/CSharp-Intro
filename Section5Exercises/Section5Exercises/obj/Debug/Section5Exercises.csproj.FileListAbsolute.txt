@@ -1,0 +1,7 @@
+c:\users\chris\source\repos\IntroC#\Section5Exercises\Section5Exercises\bin\Debug\Section5Exercises.exe.config
+c:\users\chris\source\repos\IntroC#\Section5Exercises\Section5Exercises\bin\Debug\Section5Exercises.exe
+c:\users\chris\source\repos\IntroC#\Section5Exercises\Section5Exercises\bin\Debug\Section5Exercises.pdb
+c:\users\chris\source\repos\IntroC#\Section5Exercises\Section5Exercises\obj\Debug\Section5Exercises.csprojAssemblyReference.cache
+c:\users\chris\source\repos\IntroC#\Section5Exercises\Section5Exercises\obj\Debug\Section5Exercises.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\Section5Exercises\Section5Exercises\obj\Debug\Section5Exercises.exe
+c:\users\chris\source\repos\IntroC#\Section5Exercises\Section5Exercises\obj\Debug\Section5Exercises.pdb

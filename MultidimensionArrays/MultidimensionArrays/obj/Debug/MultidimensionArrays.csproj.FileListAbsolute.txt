@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\MultidimensionArrays\MultidimensionArrays\bin\Debug\MultidimensionArrays.exe.config
+C:\Users\chris\source\repos\MultidimensionArrays\MultidimensionArrays\bin\Debug\MultidimensionArrays.exe
+C:\Users\chris\source\repos\MultidimensionArrays\MultidimensionArrays\bin\Debug\MultidimensionArrays.pdb
+C:\Users\chris\source\repos\MultidimensionArrays\MultidimensionArrays\obj\Debug\MultidimensionArrays.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\MultidimensionArrays\MultidimensionArrays\obj\Debug\MultidimensionArrays.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\MultidimensionArrays\MultidimensionArrays\obj\Debug\MultidimensionArrays.exe
+C:\Users\chris\source\repos\MultidimensionArrays\MultidimensionArrays\obj\Debug\MultidimensionArrays.pdb

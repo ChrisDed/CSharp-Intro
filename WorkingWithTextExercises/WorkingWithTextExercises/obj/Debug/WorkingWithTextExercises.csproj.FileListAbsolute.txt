@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\IntroC#\WorkingWithTextExercises\WorkingWithTextExercises\bin\Debug\WorkingWithTextExercises.exe.config
+C:\Users\chris\source\repos\IntroC#\WorkingWithTextExercises\WorkingWithTextExercises\bin\Debug\WorkingWithTextExercises.exe
+C:\Users\chris\source\repos\IntroC#\WorkingWithTextExercises\WorkingWithTextExercises\bin\Debug\WorkingWithTextExercises.pdb
+C:\Users\chris\source\repos\IntroC#\WorkingWithTextExercises\WorkingWithTextExercises\obj\Debug\WorkingWithTextExercises.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\WorkingWithTextExercises\WorkingWithTextExercises\obj\Debug\WorkingWithTextExercises.exe
+C:\Users\chris\source\repos\IntroC#\WorkingWithTextExercises\WorkingWithTextExercises\obj\Debug\WorkingWithTextExercises.pdb
+C:\Users\chris\source\repos\IntroC#\WorkingWithTextExercises\WorkingWithTextExercises\obj\Debug\WorkingWithTextExercises.csprojAssemblyReference.cache

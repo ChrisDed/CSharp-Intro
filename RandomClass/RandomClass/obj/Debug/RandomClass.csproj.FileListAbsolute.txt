@@ -1,0 +1,6 @@
+c:\users\chris\source\repos\IntroC#\RandomClass\RandomClass\bin\Debug\RandomClass.exe.config
+c:\users\chris\source\repos\IntroC#\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+c:\users\chris\source\repos\IntroC#\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+c:\users\chris\source\repos\IntroC#\RandomClass\RandomClass\obj\Debug\RandomClass.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\RandomClass\RandomClass\obj\Debug\RandomClass.exe
+c:\users\chris\source\repos\IntroC#\RandomClass\RandomClass\obj\Debug\RandomClass.pdb

@@ -1,0 +1,7 @@
+c:\users\chris\source\repos\IntroC#\VariablesConstants\VariablesConstants\obj\Debug\VariablesConstants.csprojAssemblyReference.cache
+c:\users\chris\source\repos\IntroC#\VariablesConstants\VariablesConstants\obj\Debug\VariablesConstants.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\VariablesConstants\VariablesConstants\bin\Debug\VariablesConstants.exe.config
+c:\users\chris\source\repos\IntroC#\VariablesConstants\VariablesConstants\bin\Debug\VariablesConstants.exe
+c:\users\chris\source\repos\IntroC#\VariablesConstants\VariablesConstants\bin\Debug\VariablesConstants.pdb
+c:\users\chris\source\repos\IntroC#\VariablesConstants\VariablesConstants\obj\Debug\VariablesConstants.exe
+c:\users\chris\source\repos\IntroC#\VariablesConstants\VariablesConstants\obj\Debug\VariablesConstants.pdb

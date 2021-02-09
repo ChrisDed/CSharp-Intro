@@ -1,0 +1,7 @@
+c:\users\chris\source\repos\IntroC#\ReferenceTypesVSValueTypes\ReferenceTypesVSValueTypes\bin\Debug\ReferenceTypesVSValueTypes.exe.config
+c:\users\chris\source\repos\IntroC#\ReferenceTypesVSValueTypes\ReferenceTypesVSValueTypes\bin\Debug\ReferenceTypesVSValueTypes.exe
+c:\users\chris\source\repos\IntroC#\ReferenceTypesVSValueTypes\ReferenceTypesVSValueTypes\bin\Debug\ReferenceTypesVSValueTypes.pdb
+c:\users\chris\source\repos\IntroC#\ReferenceTypesVSValueTypes\ReferenceTypesVSValueTypes\obj\Debug\ReferenceTypesVSValueTypes.csprojAssemblyReference.cache
+c:\users\chris\source\repos\IntroC#\ReferenceTypesVSValueTypes\ReferenceTypesVSValueTypes\obj\Debug\ReferenceTypesVSValueTypes.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\ReferenceTypesVSValueTypes\ReferenceTypesVSValueTypes\obj\Debug\ReferenceTypesVSValueTypes.exe
+c:\users\chris\source\repos\IntroC#\ReferenceTypesVSValueTypes\ReferenceTypesVSValueTypes\obj\Debug\ReferenceTypesVSValueTypes.pdb

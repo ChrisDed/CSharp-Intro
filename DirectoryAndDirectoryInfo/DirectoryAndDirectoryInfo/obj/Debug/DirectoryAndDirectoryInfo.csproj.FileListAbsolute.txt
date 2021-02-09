@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\IntroC#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe.config
+C:\Users\chris\source\repos\IntroC#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\chris\source\repos\IntroC#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.pdb
+C:\Users\chris\source\repos\IntroC#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\IntroC#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\chris\source\repos\IntroC#\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.pdb

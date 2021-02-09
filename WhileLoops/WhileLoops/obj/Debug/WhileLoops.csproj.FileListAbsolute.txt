@@ -1,0 +1,6 @@
+c:\users\chris\source\repos\IntroC#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+c:\users\chris\source\repos\IntroC#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+c:\users\chris\source\repos\IntroC#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+c:\users\chris\source\repos\IntroC#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+c:\users\chris\source\repos\IntroC#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb

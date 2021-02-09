@@ -1,0 +1,6 @@
+c:\users\chris\source\repos\IntroC#\Enums\Enums\bin\Debug\Enums.exe.config
+c:\users\chris\source\repos\IntroC#\Enums\Enums\bin\Debug\Enums.exe
+c:\users\chris\source\repos\IntroC#\Enums\Enums\bin\Debug\Enums.pdb
+c:\users\chris\source\repos\IntroC#\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\Enums\Enums\obj\Debug\Enums.exe
+c:\users\chris\source\repos\IntroC#\Enums\Enums\obj\Debug\Enums.pdb

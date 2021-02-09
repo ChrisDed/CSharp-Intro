@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\IntroC#\TIMESPAN\TIMESPAN\bin\Debug\TIMESPAN.exe.config
+C:\Users\chris\source\repos\IntroC#\TIMESPAN\TIMESPAN\bin\Debug\TIMESPAN.exe
+C:\Users\chris\source\repos\IntroC#\TIMESPAN\TIMESPAN\bin\Debug\TIMESPAN.pdb
+C:\Users\chris\source\repos\IntroC#\TIMESPAN\TIMESPAN\obj\Debug\TIMESPAN.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\TIMESPAN\TIMESPAN\obj\Debug\TIMESPAN.exe
+C:\Users\chris\source\repos\IntroC#\TIMESPAN\TIMESPAN\obj\Debug\TIMESPAN.pdb

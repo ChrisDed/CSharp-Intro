@@ -1,0 +1,14 @@
+C:\Users\chris\source\repos\ArraysListsExercises\ArraysListsExercises\bin\Debug\ArraysListsExercises.exe.config
+C:\Users\chris\source\repos\ArraysListsExercises\ArraysListsExercises\bin\Debug\ArraysListsExercises.exe
+C:\Users\chris\source\repos\ArraysListsExercises\ArraysListsExercises\bin\Debug\ArraysListsExercises.pdb
+C:\Users\chris\source\repos\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.exe
+C:\Users\chris\source\repos\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.pdb
+C:\Users\chris\source\repos\IntroC#\ArraysListsExercises\ArraysListsExercises\bin\Debug\ArraysListsExercises.exe.config
+C:\Users\chris\source\repos\IntroC#\ArraysListsExercises\ArraysListsExercises\bin\Debug\ArraysListsExercises.exe
+C:\Users\chris\source\repos\IntroC#\ArraysListsExercises\ArraysListsExercises\bin\Debug\ArraysListsExercises.pdb
+C:\Users\chris\source\repos\IntroC#\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\IntroC#\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.exe
+C:\Users\chris\source\repos\IntroC#\ArraysListsExercises\ArraysListsExercises\obj\Debug\ArraysListsExercises.pdb

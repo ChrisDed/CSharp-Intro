@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\IntroC#\StringBuilding\StringBuilding\bin\Debug\StringBuilding.exe.config
+C:\Users\chris\source\repos\IntroC#\StringBuilding\StringBuilding\bin\Debug\StringBuilding.exe
+C:\Users\chris\source\repos\IntroC#\StringBuilding\StringBuilding\bin\Debug\StringBuilding.pdb
+C:\Users\chris\source\repos\IntroC#\StringBuilding\StringBuilding\obj\Debug\StringBuilding.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\IntroC#\StringBuilding\StringBuilding\obj\Debug\StringBuilding.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\StringBuilding\StringBuilding\obj\Debug\StringBuilding.exe
+C:\Users\chris\source\repos\IntroC#\StringBuilding\StringBuilding\obj\Debug\StringBuilding.pdb

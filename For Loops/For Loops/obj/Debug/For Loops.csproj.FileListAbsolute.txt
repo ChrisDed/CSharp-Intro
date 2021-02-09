@@ -1,0 +1,7 @@
+c:\users\chris\source\repos\IntroC#\For Loops\For Loops\bin\Debug\For Loops.exe.config
+c:\users\chris\source\repos\IntroC#\For Loops\For Loops\bin\Debug\For Loops.exe
+c:\users\chris\source\repos\IntroC#\For Loops\For Loops\bin\Debug\For Loops.pdb
+c:\users\chris\source\repos\IntroC#\For Loops\For Loops\obj\Debug\For Loops.csprojAssemblyReference.cache
+c:\users\chris\source\repos\IntroC#\For Loops\For Loops\obj\Debug\For Loops.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\For Loops\For Loops\obj\Debug\For Loops.exe
+c:\users\chris\source\repos\IntroC#\For Loops\For Loops\obj\Debug\For Loops.pdb

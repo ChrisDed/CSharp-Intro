@@ -1,0 +1,7 @@
+c:\users\chris\source\repos\IntroC#\IfElse-SwitchCase\IfElse-SwitchCase\bin\Debug\IfElse-SwitchCase.exe.config
+c:\users\chris\source\repos\IntroC#\IfElse-SwitchCase\IfElse-SwitchCase\bin\Debug\IfElse-SwitchCase.exe
+c:\users\chris\source\repos\IntroC#\IfElse-SwitchCase\IfElse-SwitchCase\bin\Debug\IfElse-SwitchCase.pdb
+c:\users\chris\source\repos\IntroC#\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.csprojAssemblyReference.cache
+c:\users\chris\source\repos\IntroC#\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.exe
+c:\users\chris\source\repos\IntroC#\IfElse-SwitchCase\IfElse-SwitchCase\obj\Debug\IfElse-SwitchCase.pdb

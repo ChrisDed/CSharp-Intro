@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\IntroC#\PathClass\PathClass\bin\Debug\PathClass.exe.config
+C:\Users\chris\source\repos\IntroC#\PathClass\PathClass\bin\Debug\PathClass.exe
+C:\Users\chris\source\repos\IntroC#\PathClass\PathClass\bin\Debug\PathClass.pdb
+C:\Users\chris\source\repos\IntroC#\PathClass\PathClass\obj\Debug\PathClass.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\PathClass\PathClass\obj\Debug\PathClass.exe
+C:\Users\chris\source\repos\IntroC#\PathClass\PathClass\obj\Debug\PathClass.pdb

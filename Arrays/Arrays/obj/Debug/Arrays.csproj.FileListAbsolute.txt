@@ -1,0 +1,6 @@
+c:\users\chris\source\repos\IntroC#\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\chris\source\repos\IntroC#\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\chris\source\repos\IntroC#\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\chris\source\repos\IntroC#\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\IntroC#\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\chris\source\repos\IntroC#\Arrays\Arrays\obj\Debug\Arrays.pdb

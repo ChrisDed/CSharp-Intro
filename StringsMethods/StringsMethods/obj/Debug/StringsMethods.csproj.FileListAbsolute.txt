@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\IntroC#\StringsMethods\StringsMethods\bin\Debug\StringsMethods.exe.config
+C:\Users\chris\source\repos\IntroC#\StringsMethods\StringsMethods\bin\Debug\StringsMethods.exe
+C:\Users\chris\source\repos\IntroC#\StringsMethods\StringsMethods\bin\Debug\StringsMethods.pdb
+C:\Users\chris\source\repos\IntroC#\StringsMethods\StringsMethods\obj\Debug\StringsMethods.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\IntroC#\StringsMethods\StringsMethods\obj\Debug\StringsMethods.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\StringsMethods\StringsMethods\obj\Debug\StringsMethods.exe
+C:\Users\chris\source\repos\IntroC#\StringsMethods\StringsMethods\obj\Debug\StringsMethods.pdb

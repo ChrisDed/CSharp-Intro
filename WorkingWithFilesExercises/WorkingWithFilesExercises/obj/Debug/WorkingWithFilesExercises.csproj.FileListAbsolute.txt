@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\IntroC#\WorkingWithFilesExercises\WorkingWithFilesExercises\bin\Debug\WorkingWithFilesExercises.exe.config
+C:\Users\chris\source\repos\IntroC#\WorkingWithFilesExercises\WorkingWithFilesExercises\bin\Debug\WorkingWithFilesExercises.exe
+C:\Users\chris\source\repos\IntroC#\WorkingWithFilesExercises\WorkingWithFilesExercises\bin\Debug\WorkingWithFilesExercises.pdb
+C:\Users\chris\source\repos\IntroC#\WorkingWithFilesExercises\WorkingWithFilesExercises\obj\Debug\WorkingWithFilesExercises.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\IntroC#\WorkingWithFilesExercises\WorkingWithFilesExercises\obj\Debug\WorkingWithFilesExercises.exe
+C:\Users\chris\source\repos\IntroC#\WorkingWithFilesExercises\WorkingWithFilesExercises\obj\Debug\WorkingWithFilesExercises.pdb
